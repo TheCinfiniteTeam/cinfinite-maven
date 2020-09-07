@@ -1,1 +1,34 @@
-{"artifacts":[{"name":"CinfiniteLib","group":"io.github.thecinfiniteteam.cinfinitelib.cinfinitelib","description":"The Cuckoo commons library.","archives":[{"version":"1.0.0","mcVersion":"1.12.2","releaseDate":1592671220184},{"version":"1.0.1","mcVersion":"1.12.2","releaseDate":1592671503658},{"version":"1.0.2","mcVersion":"1.12.2","releaseDate":1593082578633},{"version":"1.0..0","mcVersion":"1.12.2","releaseDate":1593090582075},{"version":"1.0.0","mcVersion":"1.12.2","releaseDate":1593864279642}]}]}
+{
+  "artifacts":[
+    {"name":"CinfiniteLib",
+     "group":"io.github.thecinfiniteteam.cinfinitelib.cinfinitelib",
+     "description":"The Cinfinite library.",
+     "archives":[
+       {
+         "version":"1.0.0","mcVersion":"1.12.2",
+        "releaseDate":1592671220184
+       },
+       {
+         "version":"1.0.0",
+         "mcVersion":"1.12.2",
+         "releaseDate":1592671503658
+       },
+       {
+         "version":"1.0.0",
+         "mcVersion":"1.12.2",
+         "releaseDate":1593082578633
+       },
+       {
+         "version":"1.0.0",
+         "mcVersion":"1.12.2",
+         "releaseDate":1593090582075
+       },
+       {
+         "version":"1.0.0",
+         "mcVersion":"1.12.2",
+         "releaseDate":1593864279642
+       }
+     ]
+    }
+  ]
+}
