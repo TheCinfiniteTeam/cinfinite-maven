@@ -99,7 +99,8 @@ table tr td {
     height: 40px;
     border-radius: 50px;
     border-style: solid;
-    background-color: #9d82ff;
+    /*background-color: #9d82ff;*/
+    background-color: #477BFF;
     color: white;
 }
 
